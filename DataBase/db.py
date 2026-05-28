@@ -3,4 +3,4 @@ from sqlalchemy import orm, sessionmaker, declarative_base
 
 db = create_engine('sqlite:///banco.db')
 
-
+# Bosta do krl
